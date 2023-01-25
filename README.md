@@ -18,4 +18,4 @@ All changes made to your contact list are saved in a file called "contacts.txt" 
 
 Thank you for using the Contacts App! We hope you find it helpful in managing your contacts.
 
-- Written by Oran and ChatGPT
+-  README Written by Oran and ChatGPT
